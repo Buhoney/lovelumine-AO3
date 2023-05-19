@@ -1,4 +1,4 @@
- "rewrites": [
+{"rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://archiveofourown.org/$1"
